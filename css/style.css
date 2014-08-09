@@ -40,3 +40,22 @@ h2 {
 	display: table-cell;
 	vertical-align: middle;
 }
+
+.main-wrapper nav {
+	text-align: center;
+}
+
+.main-wrapper nav a {
+	font-size: 20px;
+	text-decoration: none;
+	color: #eee;
+	padding-top: 60px;
+}
+
+.main-wrapper nav a:hover {
+	color: #fff;
+}
+
+.main-wrapper nav a+a {
+	padding-left: 10px;
+}
