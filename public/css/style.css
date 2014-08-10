@@ -145,7 +145,7 @@ h2 {
   -ms-animation-fill-mode: both;
   animation-fill-mode: both;
 }
-.main-wrapper nav ahover {
+.main-wrapper nav a:hover {
   color: #fff;
 }
 .main-wrapper nav a+a {
